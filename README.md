@@ -8,3 +8,4 @@ FirebaseAuth + Firestore = Created <br>
 Content Writing = Created <br>
 Content Delete = Created <br>
 Content Display View = Created <br>
+Content Updating = Completed <br>
