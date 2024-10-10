@@ -1,6 +1,6 @@
 ## Forum App for restaurant owners (SwiftUI + Combine + FirebaseAuth + Firestore) 
 
-Duration: Oct 8, 2024 ~ Current
+Duration: Oct 8, 2024 ~ Current<br>
 Last Update: Oct 10, 2024
 
 https://github.com/user-attachments/assets/06ff2714-df4d-44d7-b8e6-4b5041e722da
