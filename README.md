@@ -3,7 +3,10 @@
 Duration: Oct 8, 2024 ~ Current<br>
 Last Update: Oct 10, 2024
 
-https://github.com/user-attachments/assets/06ff2714-df4d-44d7-b8e6-4b5041e722da
+
+
+https://github.com/user-attachments/assets/b3b27f37-5ef2-4681-bbe0-71f282df79b4
+
 ### Created List
 FirebaseAuth + Firestore = Created <br>
 Content Writing = Created <br>
